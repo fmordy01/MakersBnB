@@ -42,7 +42,7 @@ def test_get_spaces(page, test_web_address):
     button = page.locator('button')
     expect(button).to_have_text("List a space")
 
-    listings = page.locator('li')
+    listings = page.locator('.listings')
     expect(listings).to_have_text([
         'Cozy Cottage\nA charming cottage for a peaceful retreat',
         'Beachfront Villa\nEnjoy stunning ocean views in this luxury villa',
