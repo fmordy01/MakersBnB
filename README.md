@@ -1,7 +1,3 @@
-Here’s the README formatted so you can directly paste it into your README file:
-
----
-
 # MakersBnB
 
 A back-end and front-end accommodation booking application inspired by Airbnb, developed collaboratively in an agile environment with sprints and test-driven development (TDD) practices.
@@ -68,4 +64,3 @@ MakersBnB is a full-stack accommodation booking site that allows users to browse
 - **templates/**: HTML templates for the app’s front-end.
 - **static/**: CSS files for styling.
 - **tests/**: Test cases for various components of the application.
-
